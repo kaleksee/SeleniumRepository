@@ -2,7 +2,7 @@
 ## Description
 **This is a basic test automation project for website https://the-internet.herokuapp.com/**
 
-Technologies used: Java 21, Selenium
+Technologies used: Java 21, Selenium, TestNG
 ## Tests available in the project 
  - AlertsTests
  - CheckboxesTests
